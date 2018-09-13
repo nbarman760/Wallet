@@ -1,2 +1,1 @@
-# Wallet
-Ethereum Wallet Ionic APP
+"# Ethereum" 
