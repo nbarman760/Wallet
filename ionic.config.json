@@ -1,0 +1,7 @@
+{
+  "name": "Ethereum",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
